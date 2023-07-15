@@ -99,3 +99,9 @@ form {
   max-width: 300px;
   margin-inline: auto;
 }
+
+.text-center1 {
+  text-align: center;
+  font-weight: 600;
+  color: #a28213;
+}
